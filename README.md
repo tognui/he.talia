@@ -37,6 +37,7 @@ This will be Hosted on Nekoweb!
 
 #### *Official*
 - __official__ (X)
+- character-profiles
 - anime (X)
 - events (X)
 - games (X)
@@ -60,6 +61,8 @@ This will be Hosted on Nekoweb!
 - buy doujins tuto (X)
 - navigate japanese web (X)
 - Pixiv dic (X)
+- web-wayback
+- 
 - scans/translations (X)
 
 #### *FAQ*
